@@ -71,7 +71,6 @@ document.addEventListener('DOMContentLoaded', () => {
       const name = document.getElementById('name').value;
       const password = document.getElementById('password').value;
       const passwordConfirm = document.getElementById('password').value;
-      console.log(email, name, password, passwordConfirm);
       signup(email, name, password, passwordConfirm);
     });
   }
