@@ -8,7 +8,8 @@
   },
   "browserslist": "last 2 versions",
   "scripts": {
-    "start": "SET NODE_ENV=development&&nodemon server.js",
+    "start": "node server.js",
+    "dev": "SET NODE_ENV=development&&nodemon server.js",
     "start:prod": "SET NODE_ENV=production&&nodemon server.js",
     "debug": "nodemon server.js",
     "watch:js": "parcel watch --no-hmr ./public/js/index.js --dist-dir ./public/js/bundled",
