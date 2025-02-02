@@ -4,6 +4,7 @@ import { displayMap } from './leaflet.js';
 import { login, logout, signup } from './login.js';
 import { updateSettings } from './updateSettings.js';
 import { bookTour } from './stripe.js';
+import { showAlert } from './alerts';
 
 document.addEventListener('DOMContentLoaded', () => {
   //DOM Elements
@@ -87,3 +88,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 });
+
+const alertMessage = document.querySelector('body').dataset.alert;
+if (alert) showAlert('success', alertMessage);
