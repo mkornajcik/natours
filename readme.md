@@ -111,7 +111,7 @@ Here are some possible improvements:
   - [ ] Two-factor authentication.
 
 ### 🌍 Website Enhancements
-- [ ] Add a **sign-up form** similar to the login form.
+- [x] Add a **sign-up form** similar to the login form. ✅
 - [ ] Allow users to **submit reviews** directly on the tour detail page if they have taken the tour.
 - [ ] Hide the **booking section** on the tour detail page for users who have already booked the tour.
 - [ ] Prevent duplicate bookings at the model level.
