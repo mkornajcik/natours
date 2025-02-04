@@ -6,9 +6,9 @@ Welcome to **Natours**, a web application. This project serves as a practical im
 
 - [Project Overview](#-project-overview)
 - [Features](#-features)
-- [Technologies Used](#-technologies-used)
+- [Technologies Used](#%EF%B8%8F-technologies-used)
 - [API Documentation](#-api-documentation)
-- [Getting Started](#-getting-started)
+- [Getting Started](#%EF%B8%8F-getting-started)
 - [License](#-license)
 
 ## 📖 Project Overview
