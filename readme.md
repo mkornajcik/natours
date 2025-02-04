@@ -7,6 +7,7 @@ Welcome to **Natours**, a web application. This project serves as a practical im
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [API Documentation](#api-documentation)
 - [Getting Started](#getting-started)
 - [License](#license)
 
@@ -45,7 +46,7 @@ Natours is designed to provide users exploration and booking of tours. The appli
 
 ## 📖 API Documentation
 
-This project includes a comprehensive RESTful API for managing users, tours, bookings, and reviews. Below is an overview of the available endpoints and their functionalities.
+This project includes a comprehensive RESTful API for managing users, tours, bookings, and reviews.
 For further details and request/response examples, refer to the [Postman API Documentation](https://documenter.getpostman.com/view/35992979/2sAYQfDpCw).
 
 ### 🔗 Full API Documentation  
