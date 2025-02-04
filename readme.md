@@ -94,6 +94,34 @@ npm start
 ```
 The application will be accessible at http://localhost:3000
 
+## 📝 To-Do List
+
+Here are some possible improvements:
+
+### 🔐 API Enhancements
+- [ ] Restrict users to review only tours they have actually booked.
+- [ ] Implement nested booking routes: `/tours/:id/bookings` and `/users/:id/bookings`.
+- [ ] Improve tour dates:
+  - [ ] Add `participants` and `soldOut` fields to each tour date.
+  - [ ] Ensure bookings are made for a specific tour date.
+  - [ ] Prevent bookings if `participants > maxGroupSize`.
+- [ ] Implement advanced authentication features:
+  - [ ] Email confirmation for new users.
+  - [ ] Refresh tokens to keep users logged in.
+  - [ ] Two-factor authentication.
+
+### 🌍 Website Enhancements
+- [ ] Add a **sign-up form** similar to the login form.
+- [ ] Allow users to **submit reviews** directly on the tour detail page if they have taken the tour.
+- [ ] Hide the **booking section** on the tour detail page for users who have already booked the tour.
+- [ ] Prevent duplicate bookings at the model level.
+- [ ] Implement a **"Like Tour"** feature and create a favorites page.
+- [ ] Add a **"My Reviews"** section to the user account page:
+  - [ ] Display all user reviews.
+  - [ ] Allow users to edit their reviews.
+- [ ] Admin Panel:
+  - [ ] Implement "Manage" pages for administrators to **CRUD** (Create, Read, Update, Delete) tours, users, reviews, and bookings.
+
 ## 📝 License
 
 This project is licensed under the **MIT License**. 
