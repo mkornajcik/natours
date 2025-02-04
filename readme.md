@@ -2,6 +2,11 @@
 
 Welcome to **Natours**, a web application. This project serves as a practical implementation of a modern back-end stack, featuring both a RESTful API and a server-side rendered website.
 
+## 🚀 Live Demo
+
+The application is deployed and available online!  
+Visit the live version here: [Natours App](https://appnatours.up.railway.app/) 🌍  
+
 ## 📌 Table of Contents
 
 - [Project Overview](#-project-overview)
