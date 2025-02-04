@@ -20,16 +20,15 @@ Natours is designed to provide users exploration and booking of tours. The appli
 ✅ **RESTful API**: Advanced filtering, sorting, aliasing, and pagination.  
 ✅ **Server-Side Rendering**: Dynamic HTML generation using **Pug** templates.  
 ✅ **CRUD Operations**: Full management of **tours, users, reviews, and bookings**.  
-✅ **Advanced Data Handling**:
-  - Geospatial queries to find tours within a specified distance.
-  - Aggregation pipeline for complex data analysis.
-
 ✅ **Secure Payment Processing**: Integration with **Stripe**.  
 ✅ **File Uploads and Image Processing**: User profile pictures and tour images management with image resizing.  
 ✅ **Email Notifications**: Automated emails for account verification and booking confirmations.  
 ✅ **Security Best Practices**: Implementation of data sanitization, rate limiting, and protection against common vulnerabilities.  
 ✅ **Error Handling**: Mechanisms for catching and managing errors across the application.  
-✅ **Deployment Ready**: Configured for deployment on platforms like **Railway**.  
+✅ **Deployment Ready**: Configured for deployment on platforms like **Railway**.
+✅ **Advanced Data Handling**:
+  - Geospatial queries to find tours within a specified distance.
+  - Aggregation pipeline for complex data analysis.
 
 ## 🛠️ Technologies Used
 
