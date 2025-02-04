@@ -43,6 +43,15 @@ Natours is designed to provide users exploration and booking of tours. The appli
 - **Bundling**: Parcel
 - **Deployment**: Railway
 
+## 📖 API Documentation
+
+This project includes a comprehensive RESTful API for managing users, tours, bookings, and reviews. Below is an overview of the available endpoints and their functionalities.
+For further details and request/response examples, refer to the [Postman API Documentation](https://documenter.getpostman.com/view/35992979/2sAYQfDpCw).
+
+### 🔗 Full API Documentation  
+For detailed request and response examples, visit the full API documentation:  
+[Postman Documentation](https://documenter.getpostman.com/view/35992979/2sAYQfDpCw)
+
 ## 🏗️ Getting Started
 
 ### 🔹 1. Clone the Repository
