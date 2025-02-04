@@ -4,12 +4,12 @@ Welcome to **Natours**, a web application. This project serves as a practical im
 
 ## 📌 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [API Documentation](#api-documentation)
-- [Getting Started](#getting-started)
-- [License](#license)
+- [Project Overview](#-project-overview)
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [API Documentation](#-api-documentation)
+- [Getting Started](#-getting-started)
+- [License](#-license)
 
 ## 📖 Project Overview
 
