@@ -25,7 +25,7 @@ Natours is designed to provide users exploration and booking of tours. The appli
 ✅ **Email Notifications**: Automated emails for account verification and booking confirmations.  
 ✅ **Security Best Practices**: Implementation of data sanitization, rate limiting, and protection against common vulnerabilities.  
 ✅ **Error Handling**: Mechanisms for catching and managing errors across the application.  
-✅ **Deployment Ready**: Configured for deployment on platforms like **Railway**.
+✅ **Deployment Ready**: Configured for deployment on platforms like **Railway**.  
 ✅ **Advanced Data Handling**:
   - Geospatial queries to find tours within a specified distance.
   - Aggregation pipeline for complex data analysis.
