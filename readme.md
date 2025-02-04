@@ -23,6 +23,7 @@ Natours is designed to provide users exploration and booking of tours. The appli
 ✅ **Advanced Data Handling**:
   - Geospatial queries to find tours within a specified distance.
   - Aggregation pipeline for complex data analysis.
+
 ✅ **Secure Payment Processing**: Integration with **Stripe**.  
 ✅ **File Uploads and Image Processing**: User profile pictures and tour images management with image resizing.  
 ✅ **Email Notifications**: Automated emails for account verification and booking confirmations.  
