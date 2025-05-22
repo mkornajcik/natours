@@ -36,6 +36,12 @@ Natours is designed to provide users exploration and booking of tours. The appli
   - Geospatial queries to find tours within a specified distance.
   - Aggregation pipeline for complex data analysis.
 
+## 📷 Preview
+![Natours](https://github.com/user-attachments/assets/4e531955-ddb8-4342-bdce-2ee0ceacdc43)
+![Natours2](https://github.com/user-attachments/assets/126e1150-76d6-45eb-9b44-5c847533949d)
+![Natours3](https://github.com/user-attachments/assets/e2088b3c-c536-4011-aa4a-09cf057207ed)
+![Natours4](https://github.com/user-attachments/assets/c72237ac-70ae-4b2f-bb93-b5d9c9a72476)
+
 ## 🛠️ Technologies Used
 
 - **Backend**: Node.js, Express.js
